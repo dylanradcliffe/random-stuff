@@ -1,2 +1,2 @@
 # random-stuff
-Random interestingn stuff
+Random interesting stuff
